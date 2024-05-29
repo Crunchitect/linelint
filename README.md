@@ -1,3 +1,3 @@
 # linelint
 
-Deprecation of Linelint.
+Deprecation version of Linelint.
